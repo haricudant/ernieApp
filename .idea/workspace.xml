@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5dd89952-a766-49c2-86e8-e3d02194b496" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../practise mern/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Desktop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Desktop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analytics_App" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cloud Security Assignment_2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cloud security_Assignment 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoFullStackBootcamp_Course" beforeDir="false" afterPath="$PROJECT_DIR$/../DjangoFullStackBootcamp_Course" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New Text Document.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/.idea/Simple  Social.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/Template/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/Template/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/Template/text.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/Template/thanks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/Template/accounts/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/Template/accounts/signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/simplesocial/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/simplesocial/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/simplesocial/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/simplesocial/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/simplesocial/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/static/css/master.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/static/socialsimple/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/static/socialsimple/css/master.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/.idea/au_pro.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/Templates/Register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/Templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/Templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/Templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/au_app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/au_app/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/au_app/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/au_app/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/au_app/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/au_app/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/au_app/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/au_app/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/au_app/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/au_app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/au_pro/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/au_pro/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/au_pro/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/au_pro/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authent_pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_pro/.idea/cool_pro.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_pro/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_pro/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_pro/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_pro/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_pro/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_pro/Templates/Index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_pro/Templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_pro/cool_app/Forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_pro/cool_app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_pro/cool_app/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_pro/cool_app/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_pro/cool_app/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_pro/cool_app/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_pro/cool_app/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_pro/cool_app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_pro/cool_pro/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_pro/cool_pro/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_pro/cool_pro/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_pro/cool_pro/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_pro/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_pro/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/.idea/cool_rel.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/cool_app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/cool_app/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/cool_app/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/cool_app/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/cool_app/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/cool_app/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/cool_app/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/cool_app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/cool_rel/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/cool_rel/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/cool_rel/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/cool_rel/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/templates/basic_app/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/templates/basic_app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/templates/basic_app/other.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool_rel/templates/basic_app/relative_url.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/.idea/experiment.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/Templates/Form_data.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/Templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/exp_app/Forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/exp_app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/exp_app/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/exp_app/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/exp_app/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/exp_app/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/exp_app/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/exp_app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/experiment/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/experiment/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/experiment/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/experiment/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/.idea/firstproject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/Templates/Login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/Templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/firstapp/Forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/firstapp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/firstapp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/firstapp/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/firstapp/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/firstapp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/firstapp/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/firstapp/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/firstproject/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/firstproject/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/firstproject/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/firstproject/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/.idea/formpro.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/Templates/Fromname.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/Templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/formapp/Forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/formapp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/formapp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/formapp/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/formapp/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/formapp/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/formapp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/formapp/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/formapp/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/formapp/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/formpro/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/formpro/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/formpro/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/formpro/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formpro/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/.idea/m_pro.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/Templates/Index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/Templates/Signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/m_app/Forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/m_app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/m_app/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/m_app/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/m_app/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/m_app/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/m_app/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/m_app/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/m_app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/m_pro/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/m_pro/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/m_pro/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/m_pro/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m_pro/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/.idea/mass_pro.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/Templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/Templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/Templates/other.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/Templates/relative.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/mass_app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/mass_app/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/mass_app/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/mass_app/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/mass_app/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/mass_app/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/mass_app/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/mass_app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/mass_pro/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/mass_pro/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/mass_pro/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass_pro/mass_pro/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/.idea/mudhalproject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/HARI NARAYANAN Appeal Oct 2018.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/Templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalapp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalapp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalapp/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalapp/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalapp/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalapp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalapp/static/css/mystyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalapp/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalapp/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalapp/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalproject/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalproject/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalproject/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalproject/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/.idea/myproject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/Templates/forms_name.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/Templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/myapp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/myapp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/myapp/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/myapp/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/myapp/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/myapp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/myapp/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/myapp/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/myproject/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/myproject/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/myproject/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/myproject/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/.idea/mysite.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/migrations/0002_auto_20181215_1437.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/migrations/0003_auto_20181215_1454.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/migrations/0004_auto_20181217_1343.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/static/css/blog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/blog/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/blog/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/blog/comment_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/blog/post_confirm_delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/blog/post_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/blog/post_draft_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/blog/post_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/blog/post_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/registration/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/.idea/pass_pro.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/Templates/Log in.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/Templates/Register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/Templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/Templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/pass_app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/pass_app/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/pass_app/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/pass_app/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/pass_app/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/pass_app/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/pass_app/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/pass_app/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/pass_app/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/pass_app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/pass_pro/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/pass_pro/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/pass_pro/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pass_pro/pass_pro/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/.idea/votepro.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/Templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/voteapp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/voteapp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/voteapp/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/voteapp/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/voteapp/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/voteapp/migrations/0002_auto_20181218_2006.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/voteapp/migrations/0003_auto_20181218_2052.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/voteapp/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/voteapp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/voteapp/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/voteapp/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/votepro/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/votepro/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/votepro/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../votepro/votepro/wsgi.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/erniapp/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="66" column="56" lean-forward="true" selection-start-line="66" selection-start-column="56" selection-end-line="66" selection-end-column="56" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/erniapp/templates/erniapp/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ernipro/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1870">
+              <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/erniapp/templates/erniapp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/erniapp/templates/erniapp/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/erniapp/templates/erniapp/registration.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ernipro/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#631#663#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/erniapp/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/erniapp/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/erniapp/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/erniapp/models.py" />
+        <option value="$PROJECT_DIR$/erniapp/admin.py" />
+        <option value="$PROJECT_DIR$/erniapp/views.py" />
+        <option value="$PROJECT_DIR$/erniapp/templates/erniapp/login.html" />
+        <option value="$PROJECT_DIR$/erniapp/templates/erniapp/registration.html" />
+        <option value="$PROJECT_DIR$/erniapp/urls.py" />
+        <option value="$PROJECT_DIR$/erniapp/forms.py" />
+        <option value="$PROJECT_DIR$/ernipro/urls.py" />
+        <option value="$PROJECT_DIR$/ernipro/settings.py" />
+        <option value="$PROJECT_DIR$/erniapp/templates/erniapp/index.html" />
+        <option value="$PROJECT_DIR$/erniapp/templates/erniapp/base.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1947" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ernipro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ernipro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ernipro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ernipro" type="462c0819:PsiDirectoryNode" />
+              <item name="erniapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ernipro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ernipro" type="462c0819:PsiDirectoryNode" />
+              <item name="ernipro" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hari\Desktop\ernipro\erniapp\static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hari\Desktop\ernipro\erniapp\media" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dd89952-a766-49c2-86e8-e3d02194b496" name="Default Changelist" comment="" />
+      <created>1582122117886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582122117886</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/erniapp/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erniapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="66" column="56" lean-forward="true" selection-start-line="66" selection-start-column="56" selection-end-line="66" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erniapp/templates/erniapp/registration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erniapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erniapp/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erniapp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ernipro/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#631#663#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ernipro/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erniapp/templates/erniapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erniapp/templates/erniapp/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erniapp/templates/erniapp/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
